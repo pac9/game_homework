@@ -1,0 +1,12 @@
+What is responsible for defining the routes of the games resource?
+I don't understand the question.
+
+What are the responsibilities of server.js?
+It connects to the database, parses the JSON, listens but don't know what it's responsibilities are.
+
+
+What are the responsibilities of the gamesRouter?
+I can see that it is on the server.js page and takes in the database collection but I don't know what it's responsibilities are.
+
+Which of the games API routes does the front-end application consume (make requests to)?
+Get, post, delete
